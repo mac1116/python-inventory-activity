@@ -1,12 +1,11 @@
-#Activity 1 - Python Inventory System
-Problem description:
+# Activity 1 - Python Inventory System
+## Problem description:
 | Instruction |
 Create an inventory program using the following data structures:
 
 A list to store item names
 A dictionary to store the corresponding item prices
 The program should allow the user to:
-
 Add a new item
 Ask for the item name
 Ask for the price
