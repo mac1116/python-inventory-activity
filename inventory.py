@@ -1,7 +1,6 @@
 item_name = []
 item_price = {}
 
-
 print("\n ====INVENTORY MENU====")
 print("1. Add Item")
 print("2. Update Price")
